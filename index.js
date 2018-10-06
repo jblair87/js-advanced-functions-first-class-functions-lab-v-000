@@ -12,6 +12,6 @@ const selectingDrivers = [ returnFirstTwoDrivers, returnLastTwoDrivers
   
 const createFareMultiplier = function(){};
 
-const fareDoubler = function(){};
+const fareDoubler = createFareMultiplier(){};
 
-const fareTripler = function(){};
+const fareTripler = createFareMultiplier(){};
